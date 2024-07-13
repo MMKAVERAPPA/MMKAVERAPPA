@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning AI&ML
 - 💞️ I’m looking to collaborate on nothing right now
-- 📫 How to reach me ?
+- 📫 How to reach me ... through LinkedIn
 - ⚡ Fun fact: 
 
 <!---
