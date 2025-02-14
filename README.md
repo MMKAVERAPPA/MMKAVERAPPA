@@ -15,18 +15,25 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=MMKAVERAPPA&theme=gruvbox&margin-w=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 # 📊 GitHub Stats:
-<a href="https://github.com/MMKAVERAPPA/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MMKAVERAPPA&theme=ambient_gradient&hide_border=true" />
-</a>
-<a href="https://github.com/MMKAVERAPPA/convoychat" style = {{marginLeft : "100px"}}>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMKAVERAPPA&layout=compact&theme=ambient_gradient&hide_border=true" />
-</a>
+<div align="center">
+  <a href="https://github.com/MMKAVERAPPA/github-readme-stats">
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=MMKAVERAPPA&theme=ambient_gradient&hide_border=true" />
+  </a>
+  <a href="https://github.com/MMKAVERAPPA/convoychat" style="margin-left: 100px;">
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMKAVERAPPA&layout=compact&theme=ambient_gradient&hide_border=true" />
+  </a>
+</div>
 
+# GitHub Streak
 
----
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-mu-lovat.vercel.app?user=MMKAVERAPPA&theme=sunset-gradient&hide_border=true" alt="GitHub Streak"/>
+  </a>
+</div>
+
 [![](https://visitcount.itsvg.in/api?id=MMKAVERAPPA&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!---
