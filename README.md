@@ -1,4 +1,4 @@
-[![MasterHead](C:\Users\gagan\OneDrive\Desktop\Make your README.jpg)](https://github.com/MMKAVERAPPA)
+[![MasterHead](https://github.com/MMKAVERAPPA/MMKAVERAPPA/blob/2164bd20b98b0db5bc7d1375416cc45ca6868fe6/Make%20your%20README.jpg)](https://github.com/MMKAVERAPPA)
 
 - 👋 Hi, I’m @MMKAVERAPPA
 - 👀 I’m interested in learning new things
