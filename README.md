@@ -5,8 +5,6 @@
 - 🌱 I’m currently learning Data Analysis and Python and later AI&ML
 - 💞️ I’m not looking to collaborate right now, but might be interested later  
 
-
-
 ## 🌐 Socials:
 <div align="center">
   <a href="https://www.linkedin.com/in/kaverappa-m-m-726833291/">
@@ -20,8 +18,6 @@
   </a>
 </div>
 
-
-
 # 💻 Tech Stack:
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python"/>
@@ -33,16 +29,12 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Git"/>
 </div>
 
-
-
 ## 🏆 GitHub Trophies
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=MMKAVERAPPA&theme=gruvbox&margin-w=10&no-frame=true" alt="GitHub Trophies"/>
   </a>
 </div>
-
-
 
 # 📊 GitHub Stats:
 <div align="center">
@@ -55,8 +47,6 @@
   </a>
 </div>
 
-
-
 # 🔥 GitHub Streak:
 <div align="center">
   <a href="https://git.io/streak-stats">
@@ -64,15 +54,25 @@
   </a>
 </div>
 
+# ⌨️ My Typing Speed:
+<div align="center">
+  <img src="Typing_Speed_Time.png" alt="Typing Speed Time" width="45%"/>
+  <img src="Typing_Speed_Words.png" alt="Typing Speed Words" width="45%"/>
+</div>
 
-# My Typing Spped:
+### View my Profile here: 
+<div align="center">
+  <a href="https://monkeytype.com/profile/DeathGamer">
+    <img src="https://img.shields.io/badge/MonkeyType-FF9900?style=flat&logo=MonkeyType&logoColor=white" alt="MonkeyType Profile"/>
+  </a>
+</div>
+
 ---
 
-![](https://komarev.com/ghpvc/?username=MMKAVERAPPA)
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MMKAVERAPPA" alt="Profile Views"/>
+</div>
 
 ---
-
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
