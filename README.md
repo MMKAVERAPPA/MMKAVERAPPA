@@ -38,14 +38,14 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  <a href="https://github.com/MMKAVERAPPA/github-readme-stats">
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=MMKAVERAPPA&theme=ambient_gradient&hide_border=true" alt="GitHub Stats"/>
+  <a href="https://github.com/MMKAVERAPPA/github-readme-stats" style="display:inline-block; margin-right: 10px;">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=MMKAVERAPPA&theme=ambient_gradient&hide_border=true" alt="GitHub Stats"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/MMKAVERAPPA/convoychat">
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMKAVERAPPA&layout=compact&theme=ambient_gradient&hide_border=true" alt="Top Languages"/>
+  <a href="https://github.com/MMKAVERAPPA/convoychat" style="display:inline-block;">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMKAVERAPPA&layout=compact&theme=ambient_gradient&hide_border=true" alt="Top Languages"/>
   </a>
 </div>
+
 
 # 🔥 GitHub Streak:
 <div align="center">
