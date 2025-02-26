@@ -1,10 +1,9 @@
-[![MasterHead](https://github.com/MMKAVERAPPA/MMKAVERAPPA/blob/2164bd20b98b0db5bc7d1375416cc45ca6868fe6/Make%20your%20README.jpg)](https://github.com/MMKAVERAPPA)
+[![MasterHead](Banner.jpg)](https://github.com/MMKAVERAPPA)
 
 # 💫 About Me:
 - 👀 I’m interested in learning new things  
-- 🌱 I’m currently learning AI & ML  
+- 🌱 I’m currently learning Data Analysis and Python and later AI&ML
 - 💞️ I’m not looking to collaborate right now, but might be interested later  
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/kaverappa-m-m-726833291/)  
 
 
 
@@ -65,6 +64,8 @@
   </a>
 </div>
 
+
+# My Typing Spped:
 ---
 
 ![](https://komarev.com/ghpvc/?username=MMKAVERAPPA)
