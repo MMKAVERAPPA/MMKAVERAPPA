@@ -32,19 +32,34 @@
 ## 🏆 GitHub Trophies
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=MMKAVERAPPA&theme=gruvbox&margin-w=10&no-frame=true" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy-fork-two.vercel.app/?username=MMKAVERAPPA&theme=gruvbox&margin-w=10&no-frame=true" alt="GitHub Trophies"/>
   </a>
 </div>
 
-# 📊 GitHub Stats:
-<div align="center">
-  <a href="https://github.com/MMKAVERAPPA/github-readme-stats" style="display:inline-block; margin-right: 10px;">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=MMKAVERAPPA&theme=ambient_gradient&hide_border=true" alt="GitHub Stats"/>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/MMKAVERAPPA/github-readme-stats">
+    <img
+      src="https://github-readme-stats-roan-sigma-52.vercel.app/api?username=MMKAVERAPPA&theme=ambient_gradient&hide_border=true"
+      height="180"
+      style="max-width: 100%;"
+      alt="GitHub Stats"
+    />
   </a>
-  <a href="https://github.com/MMKAVERAPPA/convoychat" style="display:inline-block;">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMKAVERAPPA&layout=compact&theme=ambient_gradient&hide_border=true" alt="Top Languages"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/MMKAVERAPPA/github-readme-stats">
+    <img
+      src="https://github-readme-stats-roan-sigma-52.vercel.app/api/top-langs/?username=MMKAVERAPPA&layout=compact&theme=ambient_gradient&hide_border=true"
+      height="180"
+      style="max-width: 100%;"
+      alt="Top Languages"
+    />
   </a>
-</div>
+</p>
+
+
 
 
 # 🔥 GitHub Streak:
